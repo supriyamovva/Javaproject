@@ -1,0 +1,7 @@
+I added an abstract class UserRules in this directory
+and inherited that class to facultylogins class and student class
+the method that is abstract in the UserRules is rules.
+So I overrided this function in both the student class and facultylogins class.
+I didn't enter rules for faculty,So design the rules for Faculty.
+ 
+

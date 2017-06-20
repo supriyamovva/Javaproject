@@ -1,0 +1,100 @@
+1. Which of the following statements is correct?								
+a) Public method is accessible to all other classes in the hierarchy
+b) Public method is accessible only to subclasses of its parent class
+c) Public method can only be called by object of its class.
+d) Public method can be accessed by calling object of the public class.
+2. Which of the following is a method having same name as that of its class?   
+a) finalize
+b) delete
+c) class
+d) constructor
+3. In operating system, each process has its own                         
+a) address space and global variables
+b) open files
+c) pending alarms, signals and signal handlers
+d) all of the mentioned
+4. The___ operation allows the combining of two relations by merging pairs of tuples, one from each relation, into a single tuple.
+a) Select
+b) Join                                   
+c) Union
+d) Intersection
+5. Which function is used to perform some action when the object is to be destroyed?
+a) finalize()
+b) delete()                            
+c) main()
+d) None of the mentioned
+6.To resolve the problem of data representation on different systems RPCs define ______________.      
+a) machine dependent representation of data
+b) machine representation of data
+c) machine-independent representation of data
+d) None of these
+7.Spinlocks are :																
+a) CPU cycles wasting locks over critical sections of programs
+b) locks that avoid time wastage in context switches
+c) locks that work better on multiprocessor systems
+d) All of these
+8.The ________ clause is used to list the attributes desired in the result of a query.		
+a) Where
+b) Select
+c) From
+d) Distinct
+9.Which of the following statements are incorrect?
+a) String is a class.									
+b) Strings in java are mutable.
+c) Every string is an object of class String.
+d) Java defines a peer class of String, called StringBuffer, which allows string to be altered.
+10.A system is in a safe state only if there exists a :
+a) safe allocation
+b) safe resource
+c) safe sequence						
+d) All of these
+11.If we want to retain all duplicates, we must write ________ in place of union.
+a) Union all
+b) Union some							
+c) Intersect all
+d) Intersect some
+12.What type of join is needed when you wish to include rows that do not have matching values?
+a) Equi-join
+b) Natural Join 					
+c) Outer join
+d) All of the mentioned
+13.Which of these is correct way of inheriting class A by class B?
+a) class B + class A {}
+b) class B inherits class A {}			
+c) class B extends A {}
+d) class B extends class A {}
+14.A memory buffer used to accommodate a speed differential is called
+a) stack pointer
+b) cache
+c) accumulator						
+d) disk buffer
+15.The attribute AGE is calculated from DATE_OF_BIRTH . The attribute AGE is
+a) Single valued
+b) Multi valued						
+c) Composite
+d) Derived
+16.Two main measures for the efficiency of an algorithm are
+a. Processor and memory
+b. Complexity and capacity
+c. Time and space
+d. Data and space
+17. Which of the following case does not exist in complexity theory
+a. Best case
+b. Worst case
+c. Average case
+d. Null case
+18. The Worst case occur in linear search algorithm when 
+a. Item is somewhere in the middle of the array
+b. Item is not in the array at all
+c. Item is the last element in the array
+d. Item is the last element in the array or is not there at all
+19.The complexity of linear search algorithm is
+a. O(n)
+b. O(log n)
+c. O(n2)
+d. O(n log n)
+20.The indirect change of the values of a variable in one module by another module is called
+a. internal change
+b. inter-module change
+c. side effect
+d. side-module update
